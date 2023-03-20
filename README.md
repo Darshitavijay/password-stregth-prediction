@@ -1,1 +1,2 @@
-# password-stregth-prediction
+# password-strength-prediction
+Password security is a crucial aspect of online security as weak passwords can make it easier for hackers to gain access to user accounts. Password strength is determined by the complexity and uniqueness of the characters used in the password.NLP can be used to predict password strength by analyzing the characters used in the password and identifying any patterns or common phrases that may make the password weaker. This can help users create stronger passwords and improve their online security.
